@@ -1,3 +1,4 @@
+console.log("api/category-routes.js")
 const router = require('express').Router();
 const { Category, Product, ProductTag } = require('../../models');
 

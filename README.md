@@ -29,7 +29,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Usage
 
-To view a demo of this application, please view to demo located at https://watch.screencastify.com/v/DB5zzQas7hbq31eHCNky
+To view a demo of this application, please view to demo located at https://watch.screencastify.com/v/Ia2XregeiVfm5TcJjuVN
 
 ## Source
 
